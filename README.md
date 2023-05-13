@@ -1,2 +1,2 @@
 # fristtime
-diyichi
+第一次，不会用
